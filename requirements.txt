@@ -1,0 +1,12 @@
+torch
+transformers
+sentence-transformers
+datasets
+pandas
+numpy
+scikit-learn
+streamlit
+xgboost
+evaluate
+accelerate
+nlpaug

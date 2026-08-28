@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Trained Models (DO NOT PUSH - Exceeds GitHub 100MB limit)
+cross_encoder_best/
+*.safetensors
+*.bin
+*.pt
+
+# Data and archives
+*.tar.gz
+*.csv
+data/
